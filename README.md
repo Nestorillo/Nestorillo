@@ -1,16 +1,29 @@
-## Hi there 👋
+#  Hi, I'm Nestorillo
 
-<!--
-**Nestorillo/Nestorillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Frontend Developer in Progress
 
-Here are some ideas to get you started:
+I am currently studying frontend development, building responsive and accessible websites using:
+- HTML
+- CSS
+- JavaScript
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Passionate about web design, UI/UX, and creating dynamic user experiences.
+
+---
+
+##  Portfolio
+You can view my latest portfolio here:
+[ Portfolio Live](portfolio1nestor.netlify.app)
+
+---
+
+##  Featured Projects
+-  [Game Hub](https://game-hub-nestor.netlify.app) — E-commerce website for video games.
+-  [Science Museum](https://science-museum-nestor.netlify.app) — Interactive website for a science museum.
+-  [Chronicles of Maas](https://chronicles-of-maas.netlify.app) — Fantasy blog about magical realms.
+
+---
+
+##  Connect with me
+- GitHub: [@nestorillo](https://github.com/nestorillo)
